@@ -2,7 +2,7 @@
 Repository of Algorithm and Design class (SSRU-1-68) - กิตติวัฒน์ พรมคำ 68122250048
 
 
-## About me
+## 🚀 About me
 รหัสนักศึกษา 68122250048
 ชื่อ กิตติวัฒน์ พรมคำ
 
