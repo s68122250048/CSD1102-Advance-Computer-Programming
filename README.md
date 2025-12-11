@@ -8,4 +8,3 @@ Repository of Algorithm and Design class (SSRU-1-68) - กิตติวัฒ�
 
 ชั้นปีที่ 1 
 
-รายวิชา CSD1102 การโปรแกรมคอมพิวเตอร์ขั้นสูง เทอม 2-2568
